@@ -1,0 +1,16 @@
+{
+    "name": "boilerplate",
+    "version": "1.0.0",
+    "description": "This is a Discord bot boilerplate written in JavaScript.",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js",
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.16.4",
+      "better-sqlite-pool": "^0.2.2",
+      "enmap": "^4.8.5",
+      "discord.js": "^11.4.2"
+    }
+}
